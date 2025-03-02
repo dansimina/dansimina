@@ -57,77 +57,18 @@
 
 ## 📂 My Projects
 
-### 🏎 Formula 1 Racetrack Simulation
-- 🖥 **Technologies:** C++, OpenGL
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/OpenGL-project)
-- 🎮 **Description:** A 3D simulation of a Formula 1 racetrack using OpenGL.
-
----
-
-### 🔢 Polynomial Calculator
-- 🖥 **Technologies:** Java, Swing, MVC, JUnit
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_1)
-- 📜 **Description:** A polynomial calculator with a graphical interface and input validation using regular expressions.
-
----
-
-### 🔀 Queue Management Simulation
-- 🖥 **Technologies:** Java, Multithreading, GUI
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_2)
-- 📊 **Description:** A multithreaded queue system with real-time GUI updates and optimized client allocation.
-
----
-
-### 🏢 Order Management System
-- 🖥 **Technologies:** Java, MySQL, CRUD, Reflection
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/Proiect_Baze_de_Date.git)
-- 🏗 **Description:** A CRUD-based warehouse order management system with layered architecture.
-
----
-
-### 🏥 Medical Clinic Management System
-- 🖥 **Technologies:** Java, MySQL
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/Proiect_Baze_de_Date.git)
-- 📜 **Description:** A GUI application for managing operations in a clinic network, using stored procedures and SQL queries.
-
----
-
-### 🤖 Pac-Man AI Agents
-- 🖥 **Technologies:** Python, AI, Search Algorithms
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/Project_PacMan_AI/tree/main)
-- 🏆 **Description:** AI agents playing Pac-Man using search algorithms and strategic decision-making.
-
----
-
-### 🎮 Tic-Tac-Toe in Assembly
-- 🖥 **Technologies:** Assembly (Intel x86)
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/Tic-Tac-Toe-Assembly.git)
-- 🎯 **Description:** A graphical Tic-Tac-Toe game written in Assembly.
-
----
-
-### 🔬 Efficient Sensor Data Processing (Arduino)
-- 🖥 **Technologies:** Arduino, .NET Windows Forms
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/Efficient-sensor-data-processing-implementations-on-microcontrollers/tree/main)
-- 📊 **Description:** Implementation and optimization of Z-Score calculations for sensor data processing on microcontrollers.
-
----
-
-### 🖥 Operating Systems Assignments
-- 🖥 **Technologies:** C, Linux
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/Operating-Systems-Assignments)
-- 🖧 **Subprojects:**
+- [**Formula 1 Racetrack Simulation**](https://github.com/dansimina/OpenGL-project) *(C++, OpenGL)*
+- [**Polynomial Calculator**](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_1) *(Java, Swing, MVC, JUnit)*
+- [**Queue Management Simulation**](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_2) *(Java, Multithreading, GUI)*
+- [**Order Management System**](https://github.com/dansimina/Proiect_Baze_de_Date.git) *(Java, MySQL, CRUD, Reflection)*
+- [**Medical Clinic Management System**](https://github.com/dansimina/Proiect_Baze_de_Date.git) *(Java, MySQL, Stored Procedures, SQL Queries)*
+- [**Pac-Man AI Agents**](https://github.com/dansimina/Project_PacMan_AI/tree/main) *(Python, AI, Search Algorithms)*
+- [**Tic-Tac-Toe in Assembly**](https://github.com/dansimina/Tic-Tac-Toe-Assembly.git) *(Assembly (Intel x86))*
+- [**Efficient Sensor Data Processing (Arduino)**](https://github.com/dansimina/Efficient-sensor-data-processing-implementations-on-microcontrollers/tree/main) *(Arduino, .NET Windows Forms)*
+- [**Operating Systems Assignments**](https://github.com/dansimina/Operating-Systems-Assignments) *(C, Linux)*
   - [File System Module](https://github.com/dansimina/Operating-Systems-Assignments/tree/main/a1)
   - [Processes and Threads](https://github.com/dansimina/Operating-Systems-Assignments/tree/main/a2)
   - [Inter-Process Communication](https://github.com/dansimina/Operating-Systems-Assignments/tree/main/a3)
+- [**MIPS Architecture Implementation**](https://github.com/dansimina/MIPS-architecture) *(VHDL)*
 
 ---
-
-### 🔬 MIPS Architecture Implementation
-- 🖥 **Technologies:** VHDL
-- 📂 **Repository:** [GitHub](https://github.com/dansimina/MIPS-architecture)
-- 🔧 **Description:** A VHDL-based implementation of the MIPS architecture.
-
----
-
-
