@@ -54,3 +54,15 @@
 - 🎮 Enjoy playing **F1 games** and discussing race strategies!
 
 ---
+
+## 📂 Proiectele Mele
+
+- [**Formula 1 Racetrack Simulation**](https://github.com/dansimina/OpenGL-project)
+- [**Polynomial Calculator**](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_1)
+- [**Order Management System**](https://github.com/dansimina/Proiect_Baze_de_Date.git)
+- [**Pac-Man AI Agents**](https://github.com/dansimina/Project_PacMan_AI/tree/main)
+- [**Tic-Tac-Toe with GUI - Assembly Intel x86**](https://github.com/dansimina/Tic-Tac-Toe-Assembly.git)
+- [**Efficient Sensor Data Processing on Microcontrollers**](https://github.com/dansimina/Efficient-sensor-data-processing-implementations-on-microcontrollers/tree/main)
+- [**Operating Systems Assignments**](https://github.com/dansimina/Operating-Systems-Assignments)
+- [**MIPS Architecture - VHDL**](https://github.com/dansimina/MIPS-architecture)
+
