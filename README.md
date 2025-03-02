@@ -30,12 +30,12 @@
 - 🏆 **IT Essentials: PC Hardware and Software**  
   - 🏫 Cisco Networking Academy  
   - 📅 Completed: **March 1, 2019**  
-  - 🔗 [View Certificate](https://www.netacad.com/certificates?issuanceId=fd096404-eb60-4602-b378-7b520f5e305b)
+  - 🔗 [View Certificate](https://github.com/dansimina/Certifications)
 
 - 🏆 **CCNA R&S: Routing and Switching Essentials**  
   - 🏫 Cisco Networking Academy  
   - 📅 Completed: **February 16, 2021**  
-  - 🔗 [View Certificate](https://www.netacad.com/certificates?issuanceId=fd972dc2-37bc-4b45-8ca4-7cf77e5e8c99)
+  - 🔗 [View Certificate](https://github.com/dansimina/Certifications)
 
 
 ---
