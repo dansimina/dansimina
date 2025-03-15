@@ -59,7 +59,7 @@
 - [**Formula 1 Racetrack Simulation**](https://github.com/dansimina/OpenGL-project) *(C++, OpenGL)*
 - [**Polynomial Calculator**](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_1) *(Java, Swing, MVC, JUnit)*
 - [**Queue Management Simulation**](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_2) *(Java, Multithreading, GUI)*
-- [**Order Management System**](https://github.com/dansimina/Proiect_Baze_de_Date.git) *(Java, MySQL, CRUD, Reflection)*
+- [**Order Management System**](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_3) *(Java, MySQL, CRUD, Reflection)*
 - [**Medical Clinic Management System**](https://github.com/dansimina/Proiect_Baze_de_Date.git) *(Java, MySQL, Stored Procedures, SQL Queries)*
 - [**Pac-Man AI Agents**](https://github.com/dansimina/Project_PacMan_AI/tree/main) *(Python, AI, Search Algorithms)*
 - [**Tic-Tac-Toe in Assembly**](https://github.com/dansimina/Tic-Tac-Toe-Assembly.git) *(Assembly (Intel x86))*
