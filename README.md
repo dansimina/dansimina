@@ -11,11 +11,17 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-FFA500?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-FF6B6B?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-FF6F00?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
@@ -56,6 +62,12 @@
 
 ## 📂 My Projects
 
+- [**Energy Management System**](https://github.com/dansimina/Energy-Management-System). *(Java Spring, TypeScript, RabbitMQ, WebSockets, Docker)*
+- [**AI System Administrator**](https://github.com/dansimina/System-Administrator-With-Agentic-AI). *(Google ADK, FastMCP, Ollama, Docker)*
+- [**Patch-Based Image Inpainting**](https://github.com/dansimina/Image-Processing-Project-Image-Completion-And-Restoration). *(C++, OpenCV)*
+- [**Coding Problems Platform**](https://github.com/dansimina/Coding-Problems-Platform). *(Java Spring, TypeScript)*
+- [**ESP32 Autonomous RC Car — Xbox Controller**](https://github.com/dansimina/Remote-Control-Car-Using-ESP32-And-Xbox-Controller). *(ESP32)*
+- [**Formula 1 Database**](https://github.com/dansimina/Database-Administration-Project). *(Microsoft SQL Server)*
 - [**Formula 1 Racetrack Simulation**](https://github.com/dansimina/OpenGL-project) *(C++, OpenGL)*
 - [**Polynomial Calculator**](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_1) *(Java, Swing, MVC, JUnit)*
 - [**Queue Management Simulation**](https://github.com/dansimina/Fundamental-Programming-Techniques/tree/main/pt2024_30222_simina_dan-marius_assignment_2) *(Java, Multithreading, GUI)*
